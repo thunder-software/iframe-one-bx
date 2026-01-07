@@ -1,0 +1,184 @@
+[
+  {
+    "name": "autherror",
+    "path": "/autherror",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/autherror.vue",
+    "chunkName": "pages/autherror",
+    "_name": "_6741ae54"
+  },
+  {
+    "name": "iperrorpopup",
+    "path": "/iperrorpopup",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/iperrorpopup.vue",
+    "chunkName": "pages/iperrorpopup",
+    "_name": "_18040547"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_92b87c46"
+  },
+  {
+    "name": "popup",
+    "path": "/popup",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/popup.vue",
+    "chunkName": "pages/popup",
+    "_name": "_0f382cc0"
+  },
+  {
+    "name": "results",
+    "path": "/results",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/results.vue",
+    "chunkName": "pages/results",
+    "_name": "_6e5858ea"
+  },
+  {
+    "name": "rules",
+    "path": "/rules",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/rules.vue",
+    "chunkName": "pages/rules",
+    "_name": "_bd10b72a"
+  },
+  {
+    "name": "sports",
+    "path": "/sports",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/sports.vue",
+    "chunkName": "pages/sports",
+    "_name": "_edb59c8a"
+  },
+  {
+    "name": "tvpop",
+    "path": "/tvpop",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/tvpop.vue",
+    "chunkName": "pages/tvpop",
+    "_name": "_1660cc03"
+  },
+  {
+    "name": "tvpopiframe",
+    "path": "/tvpopiframe",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/tvpopiframe.vue",
+    "chunkName": "pages/tvpopiframe",
+    "_name": "_bd4b3f32"
+  },
+  {
+    "name": "favorite-basketball",
+    "path": "/favorite/basketball",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/favorite/basketball.vue",
+    "chunkName": "pages/favorite/basketball",
+    "_name": "_676f2d0c"
+  },
+  {
+    "name": "favorite-bullfight",
+    "path": "/favorite/bullfight",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/favorite/bullfight.vue",
+    "chunkName": "pages/favorite/bullfight",
+    "_name": "_2d7ccce6"
+  },
+  {
+    "name": "favorite-cockfight",
+    "path": "/favorite/cockfight",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/favorite/cockfight.vue",
+    "chunkName": "pages/favorite/cockfight",
+    "_name": "_84fb8d76"
+  },
+  {
+    "name": "favorite-cockfightsouth",
+    "path": "/favorite/cockfightsouth",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/favorite/cockfightsouth.vue",
+    "chunkName": "pages/favorite/cockfightsouth",
+    "_name": "_5c6a6b58"
+  },
+  {
+    "name": "favorite-football",
+    "path": "/favorite/football",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/favorite/football.vue",
+    "chunkName": "pages/favorite/football",
+    "_name": "_bc86d118"
+  },
+  {
+    "name": "favorite-muaythai",
+    "path": "/favorite/muaythai",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/favorite/muaythai.vue",
+    "chunkName": "pages/favorite/muaythai",
+    "_name": "_e9110bfa"
+  },
+  {
+    "name": "favorite-snooker",
+    "path": "/favorite/snooker",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/favorite/snooker.vue",
+    "chunkName": "pages/favorite/snooker",
+    "_name": "_10ef7146"
+  },
+  {
+    "name": "favorite-takraw",
+    "path": "/favorite/takraw",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/favorite/takraw.vue",
+    "chunkName": "pages/favorite/takraw",
+    "_name": "_b2a8ddde"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2607c274"
+  },
+  {
+    "name": "basketball-path",
+    "path": "/basketball/:path",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/basketball/_path/index.vue",
+    "chunkName": "pages/basketball/_path/index",
+    "_name": "_52df54f9"
+  },
+  {
+    "name": "bullfight-path",
+    "path": "/bullfight/:path",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/bullfight/_path/index.vue",
+    "chunkName": "pages/bullfight/_path/index",
+    "_name": "_66067f6e"
+  },
+  {
+    "name": "cockfight-path",
+    "path": "/cockfight/:path",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/cockfight/_path/index.vue",
+    "chunkName": "pages/cockfight/_path/index",
+    "_name": "_46df9628"
+  },
+  {
+    "name": "cockfightsouth-path",
+    "path": "/cockfightsouth/:path",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/cockfightsouth/_path/index.vue",
+    "chunkName": "pages/cockfightsouth/_path/index",
+    "_name": "_82a48276"
+  },
+  {
+    "name": "football-path",
+    "path": "/football/:path",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/football/_path/index.vue",
+    "chunkName": "pages/football/_path/index",
+    "_name": "_ecc986be"
+  },
+  {
+    "name": "muaythai-path",
+    "path": "/muaythai/:path",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/muaythai/_path/index.vue",
+    "chunkName": "pages/muaythai/_path/index",
+    "_name": "_d9787ea0"
+  },
+  {
+    "name": "snooker-path",
+    "path": "/snooker/:path",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/snooker/_path/index.vue",
+    "chunkName": "pages/snooker/_path/index",
+    "_name": "_6f4e592e"
+  },
+  {
+    "name": "takraw-path",
+    "path": "/takraw/:path",
+    "component": "/Users/thundersoftware009/Documents/project2022/iframe-one-bx/pages/takraw/_path/index.vue",
+    "chunkName": "pages/takraw/_path/index",
+    "_name": "_6c9fdbfe"
+  }
+]

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[154],{1004:function(e,t,l){"use strict";l.r(t);var n={layout:"result"},s=l(62),u=Object(s.a)(n,(function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("menubar-results2-table")],1)}),[],!1,null,null,null);t.default=u.exports;installComponents(u,{MenubarResults2Table:l(996).default})}}]);

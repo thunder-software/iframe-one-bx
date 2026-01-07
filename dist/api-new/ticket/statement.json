@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "bet_id": 1,
+      "user_id": 11,
+      "report_date": "2022-10-10",
+      "product_name": "Betting (Sports)",
+      "stake": "200",
+      "winlose": "-198",
+      "total_bet": "-198",
+      "comm": "10"
+    },
+    {
+      "id": 2,
+      "bet_id": 2,
+      "user_id": 11,
+      "report_date": "2022-10-09",
+      "product_name": "Betting (Sports)",
+      "stake": "200",
+      "winlose": "-198",
+      "total_bet": "-198",
+      "comm": "10"
+    }
+  ],
+  "page": 1,
+  "limit": 2,
+  "totalRows": 2,
+  "totalPage": 1
+}

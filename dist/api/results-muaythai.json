@@ -1,0 +1,561 @@
+{
+    "code": 0,
+    "message": "success",
+    "strdate": "2022-10-31",
+        "error": {
+            "id": 0,
+            "msg": "No Error"
+        },
+    "serverId": "MUAY-18",
+    "result": {
+        "res": [
+            {
+                "boxing_cat_id": "7923",
+                "boxing_cat_name": "Muay thai win by point or win by T.K.O. on Monday 31 October (MS2 Only)",
+                "boxing_cat_name_en": "Muay thai win by point or win by T.K.O. on Monday 31 October (MS2 Only)",
+                "boxing_cat_name_th": "มวยไทย ครบยก-ไม่ครบยก วันจันทร์ที่ 31 ตุลาคม (MS2 Only)",
+                "list_all": [
+                    {
+                        "boxing_id": "56896",
+                        "boxing_cat_id": "7923",
+                        "team_red": "Superball-Phodam (Win_by_point)",
+                        "team_blue": "Superball-Phodam (Win_by_T.K.O.)",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Superball-Phodam (Win_by_point)",
+                            "boxer_name_en": "Superball-Phodam (Win_by_point)",
+                            "boxer_name_th": "ซุปเปอร์บอล-โพธิ์ดำ (ครบยก)",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Superball-Phodam (Win_by_T.K.O.)",
+                            "boxer_name_en": "Superball-Phodam (Win_by_T.K.O.)",
+                            "boxer_name_th": "ซุปเปอร์บอล-โพธิ์ดำ (ไม่ครบยก)",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56897",
+                        "boxing_cat_id": "7923",
+                        "team_red": "Kanthong-Nirannoi (Win_by_point)",
+                        "team_blue": "Kanthong-Nirannoi (Win_by_T.K.O.)",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Kanthong-Nirannoi (Win_by_point)",
+                            "boxer_name_en": "Kanthong-Nirannoi (Win_by_point)",
+                            "boxer_name_th": "ก้านทอง-นิรันดร์น้อย (ครบยก)",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Kanthong-Nirannoi (Win_by_T.K.O.)",
+                            "boxer_name_en": "Kanthong-Nirannoi (Win_by_T.K.O.)",
+                            "boxer_name_th": "ก้านทอง-นิรันดร์น้อย (ไม่ครบยก)",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56898",
+                        "boxing_cat_id": "7923",
+                        "team_red": "Kaeokla-Saengtawan (Win_by_point)",
+                        "team_blue": "Kaeokla-Saengtawan (Win_by_T.K.O.)",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Kaeokla-Saengtawan (Win_by_point)",
+                            "boxer_name_en": "Kaeokla-Saengtawan (Win_by_point)",
+                            "boxer_name_th": "แก้วกล้า-แสงตะวัน (ครบยก)",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Kaeokla-Saengtawan (Win_by_T.K.O.)",
+                            "boxer_name_en": "Kaeokla-Saengtawan (Win_by_T.K.O.)",
+                            "boxer_name_th": "แก้วกล้า-แสงตะวัน (ไม่ครบยก)",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56899",
+                        "boxing_cat_id": "7923",
+                        "team_red": "Nopphadet-Samanchai (Win_by_point)",
+                        "team_blue": "Nopphadet-Samanchai (Win_by_T.K.O.)",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Nopphadet-Samanchai (Win_by_point)",
+                            "boxer_name_en": "Nopphadet-Samanchai (Win_by_point)",
+                            "boxer_name_th": "นพเดช-สมานชัย (ครบยก)",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Nopphadet-Samanchai (Win_by_T.K.O.)",
+                            "boxer_name_en": "Nopphadet-Samanchai (Win_by_T.K.O.)",
+                            "boxer_name_th": "นพเดช-สมานชัย (ไม่ครบยก)",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56900",
+                        "boxing_cat_id": "7923",
+                        "team_red": "Phetsanti-Phetnongbua (Win_by_point)",
+                        "team_blue": "Phetsanti-Phetnongbua (Win_by_T.K.O.)",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Phetsanti-Phetnongbua (Win_by_point)",
+                            "boxer_name_en": "Phetsanti-Phetnongbua (Win_by_point)",
+                            "boxer_name_th": "เพชรสันติ-เพชรหนองบัว (ครบยก)",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Phetsanti-Phetnongbua (Win_by_T.K.O.)",
+                            "boxer_name_en": "Phetsanti-Phetnongbua (Win_by_T.K.O.)",
+                            "boxer_name_th": "เพชรสันติ-เพชรหนองบัว (ไม่ครบยก)",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56901",
+                        "boxing_cat_id": "7923",
+                        "team_red": "Khunsuek-Phettrangtime (Win_by_point)",
+                        "team_blue": "Khunsuek-Phettrangtime (Win_by_T.K.O.)",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Khunsuek-Phettrangtime (Win_by_point)",
+                            "boxer_name_en": "Khunsuek-Phettrangtime (Win_by_point)",
+                            "boxer_name_th": "ขุนศึก-เพชรตรังไทม์ (ครบยก)",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Khunsuek-Phettrangtime (Win_by_T.K.O.)",
+                            "boxer_name_en": "Khunsuek-Phettrangtime (Win_by_T.K.O.)",
+                            "boxer_name_th": "ขุนศึก-เพชรตรังไทม์ (ไม่ครบยก)",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56902",
+                        "boxing_cat_id": "7923",
+                        "team_red": "Samannoi-Wanphichit (Win_by_point)",
+                        "team_blue": "Samannoi-Wanphichit (Win_by_T.K.O.)",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Samannoi-Wanphichit (Win_by_point)",
+                            "boxer_name_en": "Samannoi-Wanphichit (Win_by_point)",
+                            "boxer_name_th": "สมานน้อย-วันพิชิต (ครบยก)",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Samannoi-Wanphichit (Win_by_T.K.O.)",
+                            "boxer_name_en": "Samannoi-Wanphichit (Win_by_T.K.O.)",
+                            "boxer_name_th": "สมานน้อย-วันพิชิต (ไม่ครบยก)",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56903",
+                        "boxing_cat_id": "7923",
+                        "team_red": "Saenrit-Phetchokchai (Win_by_point)",
+                        "team_blue": "Saenrit-Phetchokchai (Win_by_T.K.O.)",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Saenrit-Phetchokchai (Win_by_point)",
+                            "boxer_name_en": "Saenrit-Phetchokchai (Win_by_point)",
+                            "boxer_name_th": "แสนฤทธิ์-เพชรโชคชัย (ครบยก)",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Saenrit-Phetchokchai (Win_by_T.K.O.)",
+                            "boxer_name_en": "Saenrit-Phetchokchai (Win_by_T.K.O.)",
+                            "boxer_name_th": "แสนฤทธิ์-เพชรโชคชัย (ไม่ครบยก)",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "boxing_cat_id": "6161",
+                "boxing_cat_name": "Muay thai Muaythaiphanthamit(Channel JKN) main events 1-4 which conner win more ? (MS2 Only)",
+                "boxing_cat_name_en": "Muay thai Muaythaiphanthamit(Channel JKN) main events 1-4 which conner win more ? (MS2 Only)",
+                "boxing_cat_name_th": "มวยไทย ศึกมวยไทยพันธมิตร(ช่อง JKN) คู่หลักที่ 1-4 มุมใดชนะมากกว่า ? (MS2 Only)",
+                "list_all": [
+                    {
+                        "boxing_id": "56894",
+                        "boxing_cat_id": "6161",
+                        "team_red": "Red_corner Win_more",
+                        "team_blue": "Blue_corner Win_more",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Red_corner Win_more",
+                            "boxer_name_en": "Red_corner Win_more",
+                            "boxer_name_th": "มุมแดง ชนะมากกว่า",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Blue_corner Win_more",
+                            "boxer_name_en": "Blue_corner Win_more",
+                            "boxer_name_th": "มุมน้ำเงิน ชนะมากกว่า",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "boxing_cat_id": "7921",
+                "boxing_cat_name": "Muay thai Muaythaiphanthamit(Channel JKN) on Monday 31 October",
+                "boxing_cat_name_en": "Muay thai Muaythaiphanthamit(Channel JKN) on Monday 31 October",
+                "boxing_cat_name_th": "มวยไทย ศึกมวยไทยพันธมิตร(ช่อง JKN) วันจันทร์ที่ 31 ตุลาคม",
+                "list_all": [
+                    {
+                        "boxing_id": "56886",
+                        "boxing_cat_id": "7921",
+                        "team_red": "Superball Sotbinla_gym",
+                        "team_blue": "Phodam Singchaturat",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Superball Sotbinla_gym",
+                            "boxer_name_en": "Superball Sotbinla_gym",
+                            "boxer_name_th": "ซุปเปอร์บอล สดบินหลายิม",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Phodam Singchaturat",
+                            "boxer_name_en": "Phodam Singchaturat",
+                            "boxer_name_th": "โพธิ์ดำ สิงห์จตุรัส",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56887",
+                        "boxing_cat_id": "7921",
+                        "team_red": "Kanthong Thor.Mueanglangsuan",
+                        "team_blue": "Nirannoi Petchphum_muay_thai",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Kanthong Thor.Mueanglangsuan",
+                            "boxer_name_en": "Kanthong Thor.Mueanglangsuan",
+                            "boxer_name_th": "ก้านทอง ท.เมืองหลังสวน",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Nirannoi Petchphum_muay_thai",
+                            "boxer_name_en": "Nirannoi Petchphum_muay_thai",
+                            "boxer_name_th": "นิรันดร์น้อย เพชรภูมิมวยไทย",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56888",
+                        "boxing_cat_id": "7921",
+                        "team_red": "Kaeokla Kaeosamrit",
+                        "team_blue": "Saengtawan Chor.Hapayak",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Kaeokla Kaeosamrit",
+                            "boxer_name_en": "Kaeokla Kaeosamrit",
+                            "boxer_name_th": "แก้วกล้า แก้วสัมฤทธิ์",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Saengtawan Chor.Hapayak",
+                            "boxer_name_en": "Saengtawan Chor.Hapayak",
+                            "boxer_name_th": "แสงตะวัน ช.ห้าพยัคฆ์",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56889",
+                        "boxing_cat_id": "7921",
+                        "team_red": "Nopphadet Chor.Hapayak",
+                        "team_blue": "Samanchai T.B.M._gym",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Nopphadet Chor.Hapayak",
+                            "boxer_name_en": "Nopphadet Chor.Hapayak",
+                            "boxer_name_th": "นพเดช ช.ห้าพยัคฆ์",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Samanchai T.B.M._gym",
+                            "boxer_name_en": "Samanchai T.B.M._gym",
+                            "boxer_name_th": "สมานชัย ที.บี.เอ็ม.ยิม",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "boxing_cat_id": "7131",
+                "boxing_cat_name": "Muay thai Muaythaiphanthamit(Parlungmaimuaythai FB Fanpage) main events 1-4 which conner win more ? (MS2 Only)",
+                "boxing_cat_name_en": "Muay thai Muaythaiphanthamit(Parlungmaimuaythai FB Fanpage) main events 1-4 which conner win more ? (MS2 Only)",
+                "boxing_cat_name_th": "มวยไทย ศึกมวยไทยพันธมิตร(เพจกลุ่มพลังใหม่) คู่หลักที่ 1-4 มุมใดชนะมากกว่า ? (MS2 Only)",
+                "list_all": [
+                    {
+                        "boxing_id": "56895",
+                        "boxing_cat_id": "7131",
+                        "team_red": "Red_corner Win_more",
+                        "team_blue": "Blue_corner Win_more",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Red_corner Win_more",
+                            "boxer_name_en": "Red_corner Win_more",
+                            "boxer_name_th": "มุมแดง ชนะมากกว่า",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Blue_corner Win_more",
+                            "boxer_name_en": "Blue_corner Win_more",
+                            "boxer_name_th": "มุมน้ำเงิน ชนะมากกว่า",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "boxing_cat_id": "7922",
+                "boxing_cat_name": "Muay thai Muaythaiphanthamit(Parlungmaimuaythai FB Fanpage) on Monday 31 October",
+                "boxing_cat_name_en": "Muay thai Muaythaiphanthamit(Parlungmaimuaythai FB Fanpage) on Monday 31 October",
+                "boxing_cat_name_th": "มวยไทย ศึกมวยไทยพันธมิตร(เพจกลุ่มพลังใหม่) วันจันทร์ที่ 31 ตุลาคม",
+                "list_all": [
+                    {
+                        "boxing_id": "56890",
+                        "boxing_cat_id": "7922",
+                        "team_red": "Phetsanti Phor.Phanthida",
+                        "team_blue": "Phetnongbua Suanahanpikmai",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Phetsanti Phor.Phanthida",
+                            "boxer_name_en": "Phetsanti Phor.Phanthida",
+                            "boxer_name_th": "เพชรสันติ พ.พรรณธิดา",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Phetnongbua Suanahanpikmai",
+                            "boxer_name_en": "Phetnongbua Suanahanpikmai",
+                            "boxer_name_th": "เพชรหนองบัว สวนอาหารปีกไม้",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56891",
+                        "boxing_cat_id": "7922",
+                        "team_red": "Khunsuek Mor.Hemathanon",
+                        "team_blue": "Phettrangtime Kiatpraison",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Khunsuek Mor.Hemathanon",
+                            "boxer_name_en": "Khunsuek Mor.Hemathanon",
+                            "boxer_name_th": "ขุนศึก ม.เหมทานนท์",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Phettrangtime Kiatpraison",
+                            "boxer_name_en": "Phettrangtime Kiatpraison",
+                            "boxer_name_th": "เพชรตรังไทม์ เกียรติไพรสณฑ์",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56892",
+                        "boxing_cat_id": "7922",
+                        "team_red": "Samannoi Petchphum_muay_thai",
+                        "team_blue": "Wanphichit Somkhitkanfaifa",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Samannoi Petchphum_muay_thai",
+                            "boxer_name_en": "Samannoi Petchphum_muay_thai",
+                            "boxer_name_th": "สมานน้อย เพชรภูมิมวยไทย",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Wanphichit Somkhitkanfaifa",
+                            "boxer_name_en": "Wanphichit Somkhitkanfaifa",
+                            "boxer_name_th": "วันพิชิต สมคิดการไฟฟ้า",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56893",
+                        "boxing_cat_id": "7922",
+                        "team_red": "Saenrit Singhamawynn",
+                        "team_blue": "Phetchokchai Bunsomkhuanthawon",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "Saenrit Singhamawynn",
+                            "boxer_name_en": "Saenrit Singhamawynn",
+                            "boxer_name_th": "แสนฤทธิ์ สิงห์มาวิน",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "Phetchokchai Bunsomkhuanthawon",
+                            "boxer_name_en": "Phetchokchai Bunsomkhuanthawon",
+                            "boxer_name_th": "เพชรโชคชัย บุญสมควรถาวร",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    }
+                ]
+            }
+            
+        ]
+        
+    }
+    
+}

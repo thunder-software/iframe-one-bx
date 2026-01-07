@@ -1,0 +1,149 @@
+{
+  "message": "success",
+  "result": [{
+    "k": 2725559,
+    "nn": {
+      "en": "Philippines Filoil Flying V Preseason Premier Cup",
+      "th": "ฟิลิปปินส์ Filoil Ecooil Preseason Premier Cup",
+      "cn": "菲律宾 Filoil Flying V Preseason 超级杯",
+      "tw": "Philippines Filoil Flying V Preseason Premier Cup"
+    },
+    "m": [{
+      "k": 35555578837,
+      "id": "27259:35578837",
+      "d": "2022-08-25T14:00:00.000Z",
+      "hasParlay": false,
+      "isSpecial": false,
+      "i": {
+        "mt": "",
+        "lt": "Live",
+        "pl": "10",
+        "h": "0",
+        "a": "0",
+        "s": "",
+        "hrc": "",
+        "arc": "",
+        "isHalfTime": false
+      },
+      "n": {
+        "en": {
+          "h": "NU Bulldogs",
+          "a": "Adamson Soaring Falcons BC"
+        },
+        "th": {
+          "h": "NU Bulldogs",
+          "a": "Adamson Soaring Falcons BC"
+        },
+        "cn": {
+          "h": "NU牛头犬",
+          "a": "Adamson Falcons"
+        },
+        "tw": {
+          "h": "NU Bulldogs",
+          "a": "Adamson Soaring Falcons BC"
+        }
+      },
+      "betRadarTV": "",
+      "st": "https://st-cdn001.akamaized.net/editec2en/en/match/35578837",
+      "liveTv": "",
+      "bpl": [{
+        "ah1st": {
+          "h": "-4.5",
+          "hp": "0.91",
+          "a": "4.5",
+          "ap": "-0.99",
+          "hpk": "h-4.5",
+          "hk": "hk",
+          "och": "1714",
+          "apk": "a4.5",
+          "ak": "ak",
+          "oca": "1715",
+          "mkid": "66",
+          "sp": "hcp=-4.5"
+        },
+        "ou": {
+          "o": "130.5",
+          "op": "0.83",
+          "u": "130.5",
+          "up": "-0.91",
+          "opk": "o130.5",
+          "ok": "ok",
+          "oco": "12",
+          "upk": "u130.5",
+          "uk": "uk",
+          "ocu": "13",
+          "mkid": "225",
+          "sp": "total=130.5"
+        },
+        "ou1st": {
+          "o": "58.5",
+          "op": "-0.88",
+          "u": "58.5",
+          "up": "0.80",
+          "opk": "o58.5",
+          "ok": "ok",
+          "oco": "12",
+          "upk": "u58.5",
+          "uk": "uk",
+          "ocu": "13",
+          "mkid": "68",
+          "sp": "total=58.5"
+        },
+        "ah": {
+          "h": "-7.5",
+          "hp": "-0.79",
+          "a": "7.5",
+          "ap": "0.71",
+          "hpk": "h-7.5",
+          "hk": "hk",
+          "och": "1714",
+          "apk": "a7.5",
+          "ak": "ak",
+          "oca": "1715",
+          "mkid": "223",
+          "sp": "hcp=-7.5"
+        },
+        "r": {
+          "ah": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "ou": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "x12": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "oe": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "ah1st": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "ou1st": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "x121st": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "oe1st": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "ml": {
+            "ma": {},
+            "mi": {}
+          }
+        }
+      }]
+    }],
+    "ms": 1
+  }],
+  "code": 0
+}
