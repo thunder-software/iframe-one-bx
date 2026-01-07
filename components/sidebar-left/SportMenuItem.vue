@@ -17,7 +17,7 @@
       </template>
       <b-collapse v-model="visible" id="collapse-1">
         <div class="bg-titel-card mt-1">
-          {{ lang == 'th' ? 'ประเภทกีฬา' : 'Sports Type' }}
+          <!-- {{ lang == 'th' ? 'ประเภทกีฬา' : 'Sports Type' }} -->
         </div>
         <b-card
           no-body
