@@ -1,0 +1,377 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "betList": [
+            {
+                "memberId": "62e624c400313d001814ba4e",
+                "hdp": {
+                    "isRobot": false,
+                    "autoUpdateOdd": false,
+                    "liveTimeBet": "",
+                    "md5": "",
+                    "md5d": "",
+                    "marketId": "",
+                    "outcomeId": "",
+                    "sp": "",
+                    "sourceType": "BR",
+                    "isPE": false,
+                    "isET": false
+                },
+                "lotto": {
+                    "laos": {
+                        "payoutLaos": []
+                    }
+                },
+                "parlay": {
+                    "keyInAll": "",
+                    "matches": [
+                        {
+                            "matchName": {
+                                "en": {
+                                    "h": "RB Leipzig",
+                                    "a": "Real Madrid "
+                                },
+                                "th": {
+                                    "h": "อาร์บี ไลป์ซิก",
+                                    "a": "เรอัล มาดริด"
+                                },
+                                "cn": {
+                                    "h": "莱比锡RB",
+                                    "a": "皇家马德里"
+                                },
+                                "tw": {
+                                    "h": "RB Leipzig",
+                                    "a": "Real Madrid "
+                                }
+                            },
+                            "isCancel": false,
+                            "liveTimeBet": "",
+                            "md5": "35645455",
+                            "md5d": "356454551666749600000",
+                            "keyIn": "",
+                            "sourceType": "BR",
+                            "marketId": "16",
+                            "outcomeId": "1714",
+                            "sp": "hcp=-0.25",
+                            "isPE": false,
+                            "isET": false,
+                            "_id": "6357ae1dab1e460e6a4f06a1",
+                            "leagueId": "69781",
+                            "matchId": "69781:35645455",
+                            "leagueName": "UEFA Champions League",
+                            "leagueNameN": {
+                                "tw": "UEFA Champions League",
+                                "cn": "UEFA Champions League",
+                                "th": "ยูฟ่า แชมป์เปี้ยนส์ ลีก ",
+                                "en": "UEFA Champions League"
+                            },
+                            "matchDate": "2022-10-26T02:00:00.000Z",
+                            "oddKey": "h-0/0.5",
+                            "odd": 2.15,
+                            "oddType": "AH",
+                            "handicap": "-0/0.5",
+                            "bet": "HOME",
+                            "score": "0:0",
+                            "matchType": "NONE_LIVE"
+                        },
+                        {
+                            "matchName": {
+                                "en": {
+                                    "h": "Celtic FC",
+                                    "a": "Shakhtar Donetsk"
+                                },
+                                "th": {
+                                    "h": "เซลติก เอฟซี",
+                                    "a": "ชักตาร์ โดเน็ตส์ก"
+                                },
+                                "cn": {
+                                    "h": "凯尔特人格拉斯哥",
+                                    "a": "顿涅茨克矿工"
+                                },
+                                "tw": {
+                                    "h": "Celtic FC",
+                                    "a": "Shakhtar Donetsk"
+                                }
+                            },
+                            "isCancel": false,
+                            "liveTimeBet": "",
+                            "md5": "35645453",
+                            "md5d": "356454531666749600000",
+                            "keyIn": "",
+                            "sourceType": "BR",
+                            "marketId": "16",
+                            "outcomeId": "1714",
+                            "sp": "hcp=-0.75",
+                            "isPE": false,
+                            "isET": false,
+                            "_id": "6357ae1dab1e460e6a4f06a2",
+                            "leagueId": "69781",
+                            "matchId": "69781:35645453",
+                            "leagueName": "UEFA Champions League",
+                            "leagueNameN": {
+                                "tw": "UEFA Champions League",
+                                "cn": "UEFA Champions League",
+                                "th": "ยูฟ่า แชมป์เปี้ยนส์ ลีก ",
+                                "en": "UEFA Champions League"
+                            },
+                            "matchDate": "2022-10-26T02:00:00.000Z",
+                            "oddKey": "h-0.5/1",
+                            "odd": 1.96,
+                            "oddType": "AH",
+                            "handicap": "-0.5/1",
+                            "bet": "HOME",
+                            "score": "0:0",
+                            "matchType": "NONE_LIVE"
+                        },
+                        {
+                            "matchName": {
+                                "en": {
+                                    "h": "Dinamo Zagreb",
+                                    "a": "AC Milan"
+                                },
+                                "th": {
+                                    "h": "ดินาโม ซาเกร็บ",
+                                    "a": "เอซี มิลาน"
+                                },
+                                "cn": {
+                                    "h": "萨格勒布迪纳摩",
+                                    "a": "AC米兰"
+                                },
+                                "tw": {
+                                    "h": "Dinamo Zagreb",
+                                    "a": "AC Milan"
+                                }
+                            },
+                            "isCancel": false,
+                            "liveTimeBet": "",
+                            "md5": "35645449",
+                            "md5d": "356454491666749600000",
+                            "keyIn": "",
+                            "sourceType": "BR",
+                            "marketId": "16",
+                            "outcomeId": "1714",
+                            "sp": "hcp=0.75",
+                            "isPE": false,
+                            "isET": false,
+                            "_id": "6357ae1dab1e460e6a4f06a3",
+                            "leagueId": "69781",
+                            "matchId": "69781:35645449",
+                            "leagueName": "UEFA Champions League",
+                            "leagueNameN": {
+                                "tw": "UEFA Champions League",
+                                "cn": "UEFA Champions League",
+                                "th": "ยูฟ่า แชมป์เปี้ยนส์ ลีก ",
+                                "en": "UEFA Champions League"
+                            },
+                            "matchDate": "2022-10-26T02:00:00.000Z",
+                            "oddKey": "h0.5/1",
+                            "odd": 1.86,
+                            "oddType": "AH",
+                            "handicap": "0.5/1",
+                            "bet": "HOME",
+                            "score": "0:0",
+                            "matchType": "NONE_LIVE"
+                        },
+                        {
+                            "matchName": {
+                                "en": {
+                                    "h": "Sevilla",
+                                    "a": "FC Copenhagen"
+                                },
+                                "th": {
+                                    "h": "เซบีย่า",
+                                    "a": "เอฟซี โคเปนเฮเก้น"
+                                },
+                                "cn": {
+                                    "h": "塞维利亚",
+                                    "a": "哥本哈根"
+                                },
+                                "tw": {
+                                    "h": "Sevilla",
+                                    "a": "FC Copenhagen"
+                                }
+                            },
+                            "isCancel": false,
+                            "liveTimeBet": "",
+                            "md5": "35645457",
+                            "md5d": "356454571666741500000",
+                            "keyIn": "",
+                            "sourceType": "BR",
+                            "marketId": "16",
+                            "outcomeId": "1714",
+                            "sp": "hcp=-1",
+                            "isPE": false,
+                            "isET": false,
+                            "_id": "6357ae1dab1e460e6a4f06a4",
+                            "leagueId": "69781",
+                            "matchId": "69781:35645457",
+                            "leagueName": "UEFA Champions League",
+                            "leagueNameN": {
+                                "tw": "UEFA Champions League",
+                                "cn": "UEFA Champions League",
+                                "th": "ยูฟ่า แชมป์เปี้ยนส์ ลีก ",
+                                "en": "UEFA Champions League"
+                            },
+                            "matchDate": "2022-10-25T23:45:00.000Z",
+                            "oddKey": "h-1.0",
+                            "odd": 1.94,
+                            "oddType": "AH",
+                            "handicap": "-1.0",
+                            "bet": "HOME",
+                            "score": "0:0",
+                            "matchType": "NONE_LIVE"
+                        },
+                        {
+                            "matchName": {
+                                "en": {
+                                    "h": "Wuhan Three Towns",
+                                    "a": "Dalian Pro"
+                                },
+                                "th": {
+                                    "h": "วูฮาน ทรี ทาวน์",
+                                    "a": "ดาเลียน โปร"
+                                },
+                                "cn": {
+                                    "h": "武汉三镇",
+                                    "a": "大连人"
+                                },
+                                "tw": {
+                                    "h": "Wuhan Three Towns",
+                                    "a": "Dalian Pro"
+                                }
+                            },
+                            "isCancel": false,
+                            "liveTimeBet": "",
+                            "md5": "36695097",
+                            "md5d": "366950971666722600000",
+                            "keyIn": "",
+                            "sourceType": "BR",
+                            "marketId": "16",
+                            "outcomeId": "1714",
+                            "sp": "hcp=-1.75",
+                            "isPE": false,
+                            "isET": false,
+                            "_id": "6357ae1dab1e460e6a4f06a5",
+                            "leagueId": "58280",
+                            "matchId": "58280:36695097",
+                            "leagueName": "China Football Super League",
+                            "leagueNameN": {
+                                "tw": "China Football Super League",
+                                "cn": "China Football Super League",
+                                "th": "จีน ฟุตบอล ซุปเปอร์ ลีก",
+                                "en": "China Football Super League"
+                            },
+                            "matchDate": "2022-10-25T18:30:00.000Z",
+                            "oddKey": "h-1.5/2",
+                            "odd": 1.9,
+                            "oddType": "AH",
+                            "handicap": "-1.5/2",
+                            "bet": "HOME",
+                            "score": "0:0",
+                            "matchType": "NONE_LIVE"
+                        }
+                    ],
+                    "odds": 28.891
+                },
+                "memberCommission": 0,
+                "memberCommPercent": 0,
+                "memberCreditUsage": 50,
+                "amount": 50,
+                "payout": 1444.55,
+                "stakeIn": 50,
+                "stakeOut": 50,
+                "betId": "BET1666690589765",
+                "createdDate": "2022-10-25T16:36:29.765Z",
+                "priceType": "EU",
+                "gameType": "PARLAY",
+                "game": "FOOTBALL",
+                "source": "FOOTBALL",
+                "status": "RUNNING",
+                "remark": "dif : 0"
+            },
+            {
+                "memberId": "62e624c400313d001814ba4e",
+                "hdp": {
+                    "leagueNameN": {
+                        "tw": "UEFA Champions League",
+                        "cn": "UEFA Champions League",
+                        "th": "ยูฟ่า แชมป์เปี้ยนส์ ลีก ",
+                        "en": "UEFA Champions League"
+                    },
+                    "matchName": {
+                        "en": {
+                            "h": "Red Bull Salzburg",
+                            "a": "Chelsea"
+                        },
+                        "th": {
+                            "h": "เร้ดบูลล์ ซัลซ์บวร์ก",
+                            "a": "เชลซี"
+                        },
+                        "cn": {
+                            "h": "萨尔茨堡",
+                            "a": "切尔西"
+                        },
+                        "tw": {
+                            "h": "Red Bull Salzburg",
+                            "a": "Chelsea"
+                        }
+                    },
+                    "isRobot": false,
+                    "autoUpdateOdd": false,
+                    "liveTimeBet": "",
+                    "md5": "35645447",
+                    "md5d": "undefined1666741500000",
+                    "marketId": "16",
+                    "outcomeId": "1714",
+                    "sp": "hcp=0.75",
+                    "sourceType": "BR",
+                    "isPE": false,
+                    "isET": false,
+                    "leagueId": "69781",
+                    "matchId": "69781:35645447",
+                    "leagueName": "UEFA Champions League",
+                    "matchDate": "2022-10-25T23:45:00.000Z",
+                    "oddKey": "h0.5/1",
+                    "odd": 0.9,
+                    "oddType": "AH",
+                    "handicap": "0.5/1",
+                    "bet": "HOME",
+                    "score": "0:0",
+                    "matchType": "NONE_LIVE"
+                },
+                "lotto": {
+                    "laos": {
+                        "payoutLaos": []
+                    }
+                },
+                "parlay": {
+                    "keyInAll": "",
+                    "matches": []
+                },
+                "memberCommission": 0,
+                "memberCommPercent": 0,
+                "memberCreditUsage": 20,
+                "amount": 20,
+                "payout": 38,
+                "stakeIn": 20,
+                "stakeOut": 20,
+                "betId": "BET1666672317359",
+                "createdDate": "2022-10-25T11:31:57.358Z",
+                "priceType": "MY",
+                "gameType": "TODAY",
+                "game": "FOOTBALL",
+                "source": "FOOTBALL",
+                "status": "RUNNING",
+                "remark": "dif : 0"
+            }
+        ],
+        "summary": {
+            "totalAmount": 70,
+            "totalStakeIn": 70,
+            "totalStakeOut": 70,
+            "totalWinLose": null,
+            "totalWinLoseCom": null
+        }
+    }
+}

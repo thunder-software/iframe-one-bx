@@ -1,0 +1,13 @@
+{
+  "message": "success",
+  "data": [
+    {
+      "img": "/banner/new2.png",
+      "ban": "/new.png"
+    },
+    {
+      "img": "/banner/new3.png",
+      "ban": "/new.png"
+    }
+  ]
+}

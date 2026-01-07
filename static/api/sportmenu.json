@@ -1,0 +1,229 @@
+[{
+  "name": "ฟุตบอล",
+  "name_en": "Football",
+  "img": "/icon/soccer.png",
+  "route" : "/football/all",
+  "visible" : true,
+  "amount": 1944,
+  "type": [{
+    "name": "ไลฟ์สด",
+    "name_en": "Live",
+    "amount": 24,
+    "route" : "/football/live"
+  },
+  {
+    "name": "วันนี้",
+    "name_en": "Today",
+    "amount": 389,
+    "route" : "/football/today"
+  },
+  {
+    "name": "สเต็ป",
+    "name_en": "Step",
+    "amount": 433,
+    "route" : "/football/step"
+  },
+  {
+    "name": "มิกซ์พาร์เลย์",
+    "name_en": "Mixparlay",
+    "amount": 68,
+    "route" : "/football/mixparlay"
+  },
+  {
+    "name": "ล่วงหน้า",
+    "name_en": "Early",
+    "amount": 979,
+    "route" : "/football/early"
+  }
+]
+}, {
+  "name": "มวยไทย",
+  "name_en": "Muaythai",
+  "img": "/icon/boxing.png",
+  "amount": 23,
+  "visible" : false,
+  "route" : "/muaythai/all",
+  "type": [{
+    "name": "ไลฟ์สด",
+    "name_en": "Live",
+    "amount": 24,
+    "route" : "/muaythai/live"
+  },
+  {
+    "name": "วันนี้",
+    "name_en": "Today",
+    "amount": 389,
+    "route" : "/muaythai/today"
+  },
+  {
+    "name": "สเต็ป",
+    "name_en": "Step",
+    "amount": 433,
+    "route" : "/muaythai/step"
+  },
+  {
+    "name": "มิกซ์พาร์เลย์",
+    "name_en": "Mixparlay",
+    "amount": 68,
+    "route" : "/muaythai/mixparlay"
+  },
+  {
+    "name": "ล่วงหน้า",
+    "name_en": "Early",
+    "amount": 979,
+    "route" : "/muaythai/early"
+  }
+]
+}, {
+  "name": "ไก่ชน",
+  "name_en": "CockFight",
+  "img": "/icon/chicken.png",
+  "amount": 5,
+  "visible" : false,
+  "route" : "/cockfight/all",
+  "type": [{
+    "name": "ไลฟ์สด",
+    "name_en": "Live",
+    "amount": 24,
+    "route" : "/cockfight/live"
+  },
+  {
+    "name": "วันนี้",
+    "name_en": "Today",
+    "amount": 389,
+    "route" : "/cockfight/today"
+  },
+  {
+    "name": "สเต็ป",
+    "name_en": "Step",
+    "amount": 433,
+    "route" : "/cockfight/step"
+  },
+  {
+    "name": "มิกซ์พาร์เลย์",
+    "name_en": "Mixparlay",
+    "amount": 68,
+    "route" : "/cockfight/mixparlay"
+  },
+  {
+    "name": "ล่วงหน้า",
+    "name_en": "Early",
+    "amount": 979,
+    "route" : "/cockfight/early"
+  }
+]
+}, {
+  "name": "วัวชน",
+  "name_en": "BullFight",
+  "img": "/icon/cow4.png",
+  "visible" : false,
+  "amount": 1,
+  "route" : "/bullfight/all",
+  "type": [{
+    "name": "ไลฟ์สด",
+    "name_en": "Live",
+    "amount": 24,
+    "route" : "/bullfight/live"
+  },
+  {
+    "name": "วันนี้",
+    "name_en": "Today",
+    "amount": 389,
+    "route" : "/bullfight/today"
+  },
+  {
+    "name": "สเต็ป",
+    "name_en": "Step",
+    "amount": 433,
+    "route" : "/bullfight/step"
+  },
+  {
+    "name": "มิกซ์พาร์เลย์",
+    "name_en": "Mixparlay",
+    "amount": 68,
+    "route" : "/bullfight/mixparlay"
+  },
+  {
+    "name": "ล่วงหน้า",
+    "name_en": "Early",
+    "amount": 979,
+    "route" : "/bullfight/early"
+  }
+]
+}, {
+  "name": "บาสเกตบอล",
+  "name_en": "Basketball",
+  "img": "/icon/basketball.png",
+  "visible" : false,
+  "amount": 16,
+  "route" : "/basketball/all",
+  "type": [{
+    "name": "ไลฟ์สด",
+    "name_en": "Live",
+    "amount": 24,
+    "route" : "/basketball/live"
+  },
+  {
+    "name": "วันนี้",
+    "name_en": "Today",
+    "amount": 389,
+    "route" : "/basketball/today"
+  },
+  {
+    "name": "สเต็ป",
+    "name_en": "Step",
+    "amount": 433,
+    "route" : "/basketball/step"
+  },
+  {
+    "name": "มิกซ์พาร์เลย์",
+    "name_en": "Mixparlay",
+    "amount": 68,
+    "route" : "/basketball/mixparlay"
+  },
+  {
+    "name": "ล่วงหน้า",
+    "name_en": "Early",
+    "amount": 979,
+    "route" : "/basketball/early"
+  }
+]
+}, {
+  "name": "สนุ๊กเกอร์/พูล",
+  "name_en": "Snooker",
+  "img": "/icon/snooker.png",
+  "visible" : false,
+  "amount": 29,
+  "route" : "/snooker/all",
+  "type": [{
+    "name": "ไลฟ์สด",
+    "name_en": "Live",
+    "amount": 24,
+    "route" : "/snooker/live"
+  },
+  {
+    "name": "วันนี้",
+    "name_en": "Today",
+    "amount": 389,
+    "route" : "/snooker/today"
+  },
+  {
+    "name": "สเต็ป",
+    "name_en": "Step",
+    "amount": 433,
+    "route" : "/snooker/step"
+  },
+  {
+    "name": "มิกซ์พาร์เลย์",
+    "name_en": "Mixparlay",
+    "amount": 68,
+    "route" : "/snooker/mixparlay"
+  },
+  {
+    "name": "ล่วงหน้า",
+    "name_en": "Early",
+    "amount": 979,
+    "route" : "/snooker/early"
+  }
+]
+}]

@@ -1,0 +1,237 @@
+{
+  "message": "success",
+  "result": [{
+    "k": 27259,
+    "nn": {
+      "en": "Philippines Filoil Flying V Preseason Premier Cup",
+      "th": "ฟิลิปปินส์ Filoil Ecooil Preseason Premier Cup",
+      "cn": "菲律宾 Filoil Flying V Preseason 超级杯",
+      "tw": "Philippines Filoil Flying V Preseason Premier Cup"
+    },
+    "m": [{
+      "k": 35524221,
+      "id": "27259:35524221",
+      "d": "2022-08-23T16:00:00.000Z",
+      "hasParlay": false,
+      "isSpecial": false,
+      "i": {
+        "mt": "",
+        "lt": "Live",
+        "pl": "10",
+        "h": "0",
+        "a": "0",
+        "s": "",
+        "hrc": "",
+        "arc": "",
+        "isHalfTime": false
+      },
+      "n": {
+        "en": {
+          "h": "UP Fighting Maroons\t",
+          "a": "FEU Tamaraws BC\t"
+        },
+        "th": {
+          "h": "UP Fighting Maroons\t",
+          "a": "FEU Tamaraws BC\t"
+        },
+        "cn": {
+          "h": "Up Fighting Maroons",
+          "a": "Feu Tamaraws"
+        },
+        "tw": {
+          "h": "UP Fighting Maroons\t",
+          "a": "FEU Tamaraws BC\t"
+        }
+      },
+      "betRadarTV": "",
+      "st": "https://st-cdn001.akamaized.net/editec2en/en/match/35524221",
+      "liveTv": "",
+      "bp": [{
+        "ah": {
+          "h": "-5.5",
+          "hp": "-0.93",
+          "a": "5.5",
+          "ap": "0.85",
+          "hpk": "h-5.5",
+          "hk": "hk",
+          "och": "1714",
+          "apk": "a5.5",
+          "ak": "ak",
+          "oca": "1715",
+          "mkid": "223",
+          "sp": "hcp=-5.5"
+        },
+        "ou": {
+          "o": "139.5",
+          "op": "0.80",
+          "u": "139.5",
+          "up": "-0.88",
+          "opk": "o139.5",
+          "ok": "ok",
+          "oco": "12",
+          "upk": "u139.5",
+          "uk": "uk",
+          "ocu": "13",
+          "mkid": "225",
+          "sp": "total=139.5"
+        },
+        "r": {
+          "ah": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "ou": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "x12": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "oe": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "ah1st": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "ou1st": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "x121st": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "oe1st": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "ml": {
+            "ma": {},
+            "mi": {}
+          }
+        }
+      }]
+    }],
+    "ms": 1
+  }, {
+    "k": 68323,
+    "nn": {
+      "en": "Philippines MPBL",
+      "th": "ฟิลิปปินส์ Mpbl",
+      "cn": "菲律宾 菲律宾MPBL联赛",
+      "tw": "Philippines MPBL"
+    },
+    "m": [{
+      "k": 35198645,
+      "id": "68323:35198645",
+      "d": "2022-08-23T16:00:00.000Z",
+      "hasParlay": false,
+      "isSpecial": false,
+      "i": {
+        "mt": "",
+        "lt": "HT",
+        "pl": "10",
+        "h": "0",
+        "a": "0",
+        "s": "",
+        "hrc": "",
+        "arc": "",
+        "isHalfTime": true
+      },
+      "n": {
+        "en": {
+          "h": "Makati City MNL Kingpins",
+          "a": "Rizal Golden Coolers "
+        },
+        "th": {
+          "h": "Makati City MNL Kingpins",
+          "a": "Rizal Golden Coolers"
+        },
+        "cn": {
+          "h": "Makati Super Crunch",
+          "a": "Rizal Crusaders"
+        },
+        "tw": {
+          "h": "Makati City MNL Kingpins",
+          "a": "Rizal Golden Coolers "
+        }
+      },
+      "betRadarTV": "",
+      "st": "https://st-cdn001.akamaized.net/editec2en/en/match/35198645",
+      "liveTv": "",
+      "bp": [{
+        "ou": {
+          "o": "175.5",
+          "op": "0.85",
+          "u": "175.5",
+          "up": "-0.93",
+          "opk": "o175.5",
+          "ok": "ok",
+          "oco": "12",
+          "upk": "u175.5",
+          "uk": "uk",
+          "ocu": "13",
+          "mkid": "225",
+          "sp": "total=175.5"
+        },
+        "ah": {
+          "h": "10.5",
+          "hp": "-0.92",
+          "a": "-10.5",
+          "ap": "0.84",
+          "hpk": "h10.5",
+          "hk": "hk",
+          "och": "1714",
+          "apk": "a-10.5",
+          "ak": "ak",
+          "oca": "1715",
+          "mkid": "223",
+          "sp": "hcp=10.5"
+        },
+        "r": {
+          "ah": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "ou": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "x12": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "oe": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "ah1st": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "ou1st": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "x121st": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "oe1st": {
+            "ma": "5000.00",
+            "mi": 20
+          },
+          "ml": {
+            "ma": {},
+            "mi": {}
+          }
+        }
+      }]
+    }],
+    "ms": 1
+  }],
+  "code": 0
+}

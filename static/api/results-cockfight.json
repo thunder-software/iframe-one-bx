@@ -1,0 +1,229 @@
+{
+    "code": 0,
+    "message": "success",
+    "strdate": "2022-10-31",
+        "error": {
+            "id": 0,
+            "msg": "No Error"
+        },
+    "serverId": "MUAY-18",
+    "result": {
+        "res": [
+           
+            {
+                "boxing_cat_id": "7920",
+                "boxing_cat_name": "วัวชน ไก่ชน ณ สนามชนไก่ผางแดง(สปป.ลาว) วันจันทร์ที่ 31 ตุลาคม (Muaystep 2 Only)",
+                "boxing_cat_name_en": "วัวชน ไก่ชน ณ สนามชนไก่ผางแดง(สปป.ลาว) วันจันทร์ที่ 31 ตุลาคม (Muaystep 2 Only)",
+                "boxing_cat_name_th": "วัวชน ไก่ชน ณ สนามชนไก่ผางแดง(สปป.ลาว) วันจันทร์ที่ 31 ตุลาคม (Muaystep 2 Only)",
+                "list_all": [
+                    {
+                        "boxing_id": "56878",
+                        "boxing_cat_id": "7920",
+                        "team_red": "เล่ห์ทองจันทร์ 1",
+                        "team_blue": "เหล้าขาว",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "เล่ห์ทองจันทร์ 1",
+                            "boxer_name_en": "เล่ห์ทองจันทร์ 1",
+                            "boxer_name_th": "เล่ห์ทองจันทร์ 1",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "เหล้าขาว",
+                            "boxer_name_en": "เหล้าขาว",
+                            "boxer_name_th": "เหล้าขาว",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56879",
+                        "boxing_cat_id": "7920",
+                        "team_red": "เล่ห์ทองจันทร์ 2",
+                        "team_blue": "ผางแดง",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "เล่ห์ทองจันทร์ 2",
+                            "boxer_name_en": "เล่ห์ทองจันทร์ 2",
+                            "boxer_name_th": "เล่ห์ทองจันทร์ 2",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "ผางแดง",
+                            "boxer_name_en": "ผางแดง",
+                            "boxer_name_th": "ผางแดง",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "boxing_cat_id": "789",
+                "boxing_cat_name": "วัวชน สนามกีฬาชนโคบ้านหยีใน",
+                "boxing_cat_name_en": "bullfight Ban Yi Nai stadium",
+                "boxing_cat_name_th": "วัวชน สนามกีฬาชนโคบ้านหยีใน",
+                "list_all": [
+                    {
+                        "boxing_id": "56880",
+                        "boxing_cat_id": "789",
+                        "team_red": "DaengNgamPhayakRaiSiKhing",
+                        "team_blue": "NinChalamDam",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "DaengNgamPhayakRaiSiKhing",
+                            "boxer_name_en": "DaengNgamPhayakRaiSiKhing",
+                            "boxer_name_th": "แดงงามพยัคฆ์ร้ายสี่คิงห์",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "NinChalamDam",
+                            "boxer_name_en": "NinChalamDam",
+                            "boxer_name_th": "นิลฉลามดำ",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56881",
+                        "boxing_cat_id": "789",
+                        "team_red": "NotLangKhaoPhayakPhanthang",
+                        "team_blue": "DukDangSaenChoengLek",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "NotLangKhaoPhayakPhanthang",
+                            "boxer_name_en": "NotLangKhaoPhayakPhanthang",
+                            "boxer_name_th": "โหนดหลังขาวพยัคฆ์พันทาง",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "DukDangSaenChoengLek",
+                            "boxer_name_en": "DukDangSaenChoengLek",
+                            "boxer_name_th": "ดุกด้างแสนเชิงเล็ก",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56882",
+                        "boxing_cat_id": "789",
+                        "team_red": "NotLangKhaoFaWanMai",
+                        "team_blue": "NotNgamKhomPhayat",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "NotLangKhaoFaWanMai",
+                            "boxer_name_en": "NotLangKhaoFaWanMai",
+                            "boxer_name_th": "โหนดหลังขาวฟ้าวันใหม่",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "NotNgamKhomPhayat",
+                            "boxer_name_en": "NotNgamKhomPhayat",
+                            "boxer_name_th": "โหนดงามคมพยัตฆ์",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56883",
+                        "boxing_cat_id": "789",
+                        "team_red": "DaengNgamPhoemSap",
+                        "team_blue": "LangSatPhuTawan",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "DaengNgamPhoemSap",
+                            "boxer_name_en": "DaengNgamPhoemSap",
+                            "boxer_name_th": "แดงงามเพิ่มทรัพย์",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "LangSatPhuTawan",
+                            "boxer_name_en": "LangSatPhuTawan",
+                            "boxer_name_th": "ลังสาดภูตะวัน",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    },
+                    {
+                        "boxing_id": "56884",
+                        "boxing_cat_id": "789",
+                        "team_red": "NinChatPhayak",
+                        "team_blue": "KhaoNgamBarami",
+                        "score_txt": "",
+                        "score_red": "0",
+                        "score_blue": "0",
+                        "rs_date": "2022-10-31",
+                        "result": "wait",
+                        "type": "boxing",
+                        "play_type": "hdp",
+                        "is_complete": "0",
+                        "team_red_detail": {
+                            "boxer_name": "NinChatPhayak",
+                            "boxer_name_en": "NinChatPhayak",
+                            "boxer_name_th": "นิลชาติพยัคฆ์",
+                            "type": "boxing",
+                            "active": "1"
+                        },
+                        "team_blue_detail": {
+                            "boxer_name": "KhaoNgamBarami",
+                            "boxer_name_en": "KhaoNgamBarami",
+                            "boxer_name_th": "ขาวงามบารมี",
+                            "type": "boxing",
+                            "active": "1"
+                        }
+                    }
+                ]
+            }
+        ]
+        
+    }
+    
+}

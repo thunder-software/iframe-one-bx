@@ -1,0 +1,60 @@
+{
+    "message": "success",
+    "data": [
+        {
+          "no": "No 11669",
+          "date": "22/08/2022 07:06",
+          "datadetail":"ฟุตบอล: [เซอร์เบีย เฟิร์ส ลีก] รายระหว่าง เอฟเค ลอซนิก้า -vs- FK Radnicki Sremska Mitrovica ตั้งแต่ 05/09/2022, 22:52:29 ถึง 05/09/2022, 22:52:38 เป็นโมฆะ เนื่องจาก เป็นเดิมพันที่ถูกรับเข้าระบบจากความผิดพลาดในระหว่างที่การแข่งขันอยู่ในช่วงเวลาอันตรายของเกม",
+          "datadetail_en": "Soccer: [Serbia Prva Liga] In-Running bets on match between FK Loznica -vs- FK Radnicki Sremska Mitrovica effective from 05/09/2022, 22:52:29 to 05/09/2022, 22:52:38 are VOID due to invoking after being erroneously accepted while play was in danger mode"
+        },
+        {
+          "no": "No 11668",
+          "date": "22/08/2022 07:06",
+          "datadetail":
+            "ฟุตบอล: [โบลิเวีย โปรเฟชชั่นแนล ฟุตบอล ลีก] รายการเดิมพันระหว่าง กัวบิร่า มอนเตโร -vs- รีล ซานตา ครูซ ตั้งแต่ 05/09/2022, 03:34:13 ถึง 05/09/2022, 03:34:39 เป็นโมฆะ เนื่องจาก เป็นเดิมพันที่ถูกรับเข้าระบบจากความผิดพลาดในระหว่างที่การแข่งขันอยู่ในช่วงเวลาอันตรายของเกม",
+            "datadetail_en": "Soccer: [Bolivia Professional Football League] In-Running bets on match between Guabira Montero -vs- Real Santa Cruz effective from 05/09/2022, 03:34:13 to 05/09/2022, 03:34:39 are VOID due to invoking after being erroneously accepted while play was in danger mode"
+        },
+        {
+          "no": "No 11667",
+          "date": "22/08/2022 07:06",
+          "datadetail":
+            "ฟุตบอล: [สโลวีเนีย เพอร์วา ลีกา] รายการเดิมพันระหว่าง โอลิมปิจา ลจุบจาน่า -vs- ดอมซาเล่ ตั้งแต่ 05/09/2022, 02:23:24 ถึง 05/09/2022, 02:24:30 เป็นโมฆะ เนื่องจาก เป็นเดิมพันที่ถูกรับเข้าระบบจากความผิดพลาดในระหว่างที่การแข่งขันอยู่ในช่วงเวลาอันตรายของเกม",
+            "datadetail_en": "Soccer: [Slovenia Prva Liga] In-Running bets on match between Olimpija Ljubljana -vs- Domzale effective from 05/09/2022, 02:23:24 to 05/09/2022, 02:24:30 are VOID due to invoking after being erroneously accepted while play was in danger mode"
+        },
+        {
+          "no": "No 11666",
+          "date": "22/08/2022 07:06",
+          "datadetail":
+            "ฟุตบอล: [ตุรกี ซูเปอร์ลีก] รายการเดิมพันระหว่าง ฮาเตย์สปอร์ -vs- อดาน่า เดมิร์สปอร์ ตั้งแต่ 05/09/2022, 01:14:03 ถึง 05/09/2022, 01:15:34 เป็นโมฆะ เนื่องจาก เป็นเดิมพันที่ถูกรับเข้าระบบจากความผิดพลาดในระหว่างที่การแข่งขันอยู่ในช่วงเวลาอันตรายของเกม",
+            "datadetail_en": "Soccer: [Turkey Super League] In-Running bets on match between Hatayspor -vs- Adana Demirspor effective from 05/09/2022, 01:14:03 to 05/09/2022, 01:15:34 are VOID due to invoking after being erroneously accepted while play was in danger mode"
+        },
+        {
+          "no": "No 11665",
+          "date": "22/08/2022 07:06",
+          "datadetail":
+            "ฟุตบอล: [อังกฤษ พรีเมียร์ ลีก] รายการเดิมพันระหว่าง แมนเชสเตอร์ ยูไนเต็ด -vs- อาร์เซนอล ตั้งแต่ 04/09/2022, 22:42:03 ถึง 04/09/2022, 22:42:19 เป็นโมฆะ เนื่องจาก เป็นเดิมพันที่ถูกรับเข้าระบบจากความผิดพลาดในระหว่างที่การแข่งขันอยู่ในช่วงเวลาอันตรายของเกม",
+            "datadetail_en": "Soccer: [English Premier League] In-Running bets on match between Manchester United -vs- Arsenal effective from 04/09/2022, 22:42:03 to 04/09/2022, 22:42:19 are VOID due to invoking after being erroneously accepted while play was in danger mode"
+        },
+        {
+          "no": "No 11664",
+          "date": "22/08/2022 07:06",
+          "datadetail":
+            "ฟุตบอล: [เนเธอร์แลนด์ เอเรดีวีซี] รายการเดิมพันระหว่าง โกรนิงเก้น -vs- วิเทสส์ อาร์เน่ม ตั้งแต่ 04/09/2022, 21:58:53 ถึง 04/09/2022, 21:59:39 เป็นโมฆะ เนื่องจาก เป็นเดิมพันที่ถูกรับเข้าระบบจากความผิดพลาดในระหว่างที่การแข่งขันอยู่ในช่วงเวลาอันตรายของเกม",
+            "datadetail_en": "Soccer: [Netherlands Eredivisie] In-Running bets on match between Groningen -vs- Vitesse Arnhem effective from 04/09/2022, 21:58:53 to 04/09/2022, 21:59:39 are VOID due to invoking after being erroneously accepted while play was in danger mode"
+        },
+        {
+          "no": "No 11663",
+          "date": "22/08/2022 07:06",
+          "datadetail":
+            "ฟุตบอล: [เช็ก เฟิร์ส ลีก] รายการเดิมพันระหว่าง เอฟเค ปาร์ดูบีตเซ -vs- ซิกม่า โอโลมุช ตั้งแต่ 04/09/2022, 21:37:06 ถึง 04/09/2022, 21:38:26 เป็นโมฆะ เนื่องจาก เป็นเดิมพันที่ถูกรับเข้าระบบจากความผิดพลาดในระหว่างที่การแข่งขันอยู่ในช่วงเวลาอันตรายของเกม",
+            "datadetail_en": "Soccer: [Czech Republic First League] In-Running bets on match between FK Pardubice -vs- Sigma Olomouc effective from 04/09/2022, 21:37:06 to 04/09/2022, 21:38:26 are VOID due to invoking after being erroneously accepted while play was in danger mode"
+        },
+        {
+          "no": "No 11662",
+          "date": "22/08/2022 07:06",
+          "datadetail":
+            "ฟุตบอล: [แอลเบเนีย ซูเปอร์ลีกา] รายการเดิมพันระหว่าง เคเอฟ ลาซี่ -vs- KF Egnatia ตั้งแต่ 04/09/2022, 21:29:52 ถึง 04/09/2022, 21:30:18 เป็นโมฆะ เนื่องจาก เป็นเดิมพันที่ถูกรับเข้าระบบจากความผิดพลาดในระหว่างที่การแข่งขันอยู่ในช่วงเวลาอันตรายของเกม",
+            "datadetail_en": "Soccer: [Albania Superliga] In-Running bets on match between KF Laci -vs- KF Egnatia effective from 04/09/2022, 21:29:52 to 04/09/2022, 21:30:18 are VOID due to invoking after being erroneously accepted while play was in danger mode"
+        }
+      ]  
+}

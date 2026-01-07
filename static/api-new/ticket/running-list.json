@@ -1,0 +1,330 @@
+{
+  "data": [
+    {
+      "username": "LSM99X_X54571622",
+      "trans_time": "2022-10-10 22:00",
+      "choice": [
+        {
+          "bet_choice": "Spain (V) (PEN)",
+          "bet_type_name": "Handicap",  
+          "bet_odds": 0.88,
+          "point": 0,
+          "h_score": 0,
+          "a_score": 0,
+          "is_live": true,
+          "in_who": "1",
+          "event": {
+            "league": {
+              "league_id": "1",
+              "league_name": "SABA INTERNATIONAL FRIENDLY Virtual PES 21 - 20 Mins Play",
+              "sport_type": {
+                "sport_type_id": "1",
+                "sport_type_name": "Football"
+              }
+            },
+            "match_date_time": "2022-10-10 22:00",
+            "away": "Spain (V) (PEN)",
+            "home": "Argentina (V) (PEN)",
+            "ht_score": "0 - 0",
+            "ft_score": "cancel"
+          }
+          
+        }
+      ],
+      "action_type": "single",
+      "odds": "0.88",
+      "odds_type": "MY",
+      "stake": "100.00",
+      "stack_actual": "80.00",
+      "winloss": "-",
+      "winloss_amount": 0,
+      "win_amount": 0,
+      "status": "Wait",
+      "ip": "49.228.192.239",
+      "platform": "Mobile Others",
+      "live": "Live",
+      "tx_id": "37560657234624577"
+    },
+    {
+      "username": "LSM99EX_Xaa81663771617832",
+      "trans_time": "2022-10-10 22:00",
+      "choice": [
+        {
+          "bet_choice_th": "Over",
+          "bet_type_name": "Over/Under",
+          "bet_odds": -0.09,
+          "point": 0,
+          "h_score": 0,
+          "a_score": 0,
+          "is_live": true,
+          "in_who": "1",
+          "event": {
+            "league": {
+              "league_id": "1",
+              "league_name": "JAPAN WOMEN FOOTBALL DIVISION 1",
+              "sport_type": {
+                "sport_type_id": "1",
+                "sport_type_name": "Football"
+              }
+            },
+            "match_date_time": "2022-10-10 22:00",
+            "away": "Spain (V) (PEN)",
+            "home": "Asahi Intecc Loveledge Nagoya (W)",
+            "ht_score": "0 - 0",
+            "ft_score": "cancel"
+          }
+          
+        }
+      ],
+      "action_type": "single",
+      "odds": "-0.99",
+      "odds_type": "MY",
+      "stake": "100.00",
+      "stack_actual": "80.00",
+      "winloss": "-",
+      "winloss_amount": 0,
+      "win_amount": 0,
+      "status": "Running",
+      "ip": "49.230.125.206",
+      "platform": "Mobile Others",
+      "live": "Live",
+      "tx_id": "37559939975086149"
+    },
+    {
+      "trans_time": "2022-10-10 22:00",
+      "choice": [
+        {
+          "bet_choice": "Under (V)",  
+          "bet_type_name": "Over/Under",  
+          "bet_odds": 1.70,
+          "point": 0,
+          "h_score": 0,
+          "a_score": 0,
+          "is_live": true,
+          "in_who": "1",
+          "event": {
+            "league": {
+              "league_id": "1",
+              "league_name": "SABA INTERNATIONAL FRIENDLY Virtual PES 21 - 20 Mins Play",
+              "sport_type": {
+                "sport_type_id": "1",
+                "sport_type_name": "Football"
+              }
+            },
+            "match_date_time": "2022-10-10 22:00",
+            "away": "ปารากวัย (V)",
+            "home": "กรีซ (V)",
+            "ht_score": "0 - 0",
+            "ft_score": "cancel"
+          }
+          
+        },
+        {
+          "bet_choice": "Under",  
+          "bet_type_name_th": "Over/Under", 
+          "bet_odds": 1.70,
+          "point": 0,
+          "h_score": 0,
+          "a_score": 1,
+          "is_live": true,
+          "in_who": "1",
+          "event": {
+            "league": {
+              "league_id": "1",
+              "league_name": "SABA INTERNATIONAL FRIENDLY Virtual PES 21 - 20 Mins Play",
+              "sport_type": {
+                "sport_type_id": "1",
+                "sport_type_name": "Football"
+              }
+            },
+            "match_date_time": "2022-10-10 22:00",
+            "away": "New Zealand (V)",
+            "home": "Greece (V)",
+            "ht_score": "0 - 0",
+            "ft_score": "cancel"
+          }
+        },
+        {
+          "bet_choice": "Over",
+          "bet_type_name": "Over/Under",
+          "bet_odds": 1.70,
+          "point": 0,
+          "h_score": 0,
+          "a_score": 1,
+          "is_live": true,
+          "in_who": "1",
+          "event": {
+            "league": {
+              "league_id": "1",
+              "league_name": "SABA INTERNATIONAL FRIENDLY Virtual PES 21 - 20 Mins Play",
+              "sport_type": {
+                "sport_type_id": "1",
+                "sport_type_name": "Football"
+              }
+            },
+            "match_date_time": "2022-10-10 22:00",
+            "away": "Senegal (V)",
+            "home": "Spain (V)",
+            "ht_score": "0 - 0",
+            "ft_score": "cancel"
+          }
+          
+        }
+      ],
+      "action_type": "mixParlay",
+      "odds": "5.12",
+      "odds_type": "EUR",
+      "stake": "100.00",
+      "stack_actual": "80.00",
+      "winloss": "-",
+      "winloss_amount": 0,
+      "win_amount": 0,
+      "status": "Running",
+      "ip": "49.230.114.208",
+      "platform": "Mobile Compact",
+      "live": "Live",
+      "tx_id": "37557264210460692"
+    },
+    {
+      "trans_time": "2022-10-10 22:00",
+      "choice": [
+        {
+          "bet_choice": "Asahi Intecc Loveledge Nagoya (W)",
+          "bet_type_name": "Handicap",  
+          "bet_odds": 0.89,
+          "point": -0.5,
+          "h_score": 0,
+          "a_score": 0,
+          "is_live": true,
+          "in_who": "2",
+          "event": {
+            "league": {
+              "league_id": "1",
+              "league_name": "JAPAN WOMEN FOOTBALL DIVISION 1",
+              "sport_type": {
+                "sport_type_id": "1",
+                "sport_type_name": "Football"
+              }
+            },
+            "match_date_time": "2022-10-10 22:00",
+            "away": "Asahi Intecc Loveledge Nagoya (W)",
+            "home": "Yokohama FC Seagulls (W)",
+            "ht_score": "0 - 0",
+            "ft_score": "cancel"
+          }
+        }
+      ],
+      "action_type": "single",
+      "odds": "0.89",
+      "odds_type": "HK",
+      "stake": "100.00",
+      "stack_actual": "80.00",
+      "winloss": "-",
+      "winloss_amount": 0,
+      "win_amount": 0,
+      "status": "Running",
+      "ip": "49.229.241.194",
+      "platform": "Mobile Compact",
+      "live": "Live",
+      "tx_id": "37542742926032911"
+    },
+    {
+      "trans_time": "2022-10-10 22:00",
+      "choice": [
+        {
+          "bet_choice": "Under",  
+          "bet_type_name": "Over/Under",
+          "bet_odds": 1.19,
+          "point": 0,
+          "h_score": 0,
+          "a_score": 0,
+          "is_live": true,
+          "in_who": "2",
+          "event": {
+            "league": {
+              "league_id": "1",
+              "league_name": "SABA INTERNATIONAL FRIENDLY Virtual PES 21 - 20 Mins Play",
+              "sport_type": {
+                "sport_type_id": "1",
+                "sport_type_name": "Football"
+              }
+            },
+            "match_date_time": "2022-10-10 22:00",
+            "away": "ปารากวัย (V)",
+            "home": "กรีซ (V)",
+            "ht_score": "0 - 0",
+            "ft_score": "cancel"
+          }
+        },
+        {
+          "bet_choice": "Over",
+          "bet_odds": 1.19,
+          "point": 0,
+          "h_score": 0,
+          "a_score": 1,
+          "is_live": true,
+          "in_who": "1",
+          "event": {
+            "league": {
+              "league_id": "1",
+              "league_name": "SABA INTERNATIONAL FRIENDLY Virtual PES 21 - 20 Mins Play",
+              "sport_type": {
+                "sport_type_id": "1",
+                "sport_type_name": "Football"
+              }
+            },
+            "match_date_time": "2022-10-10 22:00",
+            "away": "New Zealand (V)",
+            "home": "Georgia (V)",
+            "ht_score": "0 - 0",
+            "ft_score": "cancel"
+          }
+          
+        },
+        {
+          "bet_choice": "Paraguay (V)",
+          "bet_type_name": "Handicap",
+          "bet_odds": 1.19,
+          "point": 0,
+          "h_score": 0,
+          "a_score": 1,
+          "is_live": true,
+          "in_who": "1",
+          "event": {
+            "league": {
+              "league_id": "1",
+              "league_name": "SABA INTERNATIONAL FRIENDLY Virtual PES 21 - 20 Mins Play",
+              "sport_type": {
+                "sport_type_id": "1",
+                "sport_type_name": "Football"
+              }
+            },
+            "match_date_time": "2022-10-10 22:00",
+            "away": "Senegal (V)",
+            "home": "Paraguay (V)",
+            "ht_score": "0 - 0",
+            "ft_score": "cancel"
+          }
+          
+        }
+      ],
+      "action_type": "step",
+      "odds": "3.59",
+      "odds_type": "MY",
+      "stake": "100.00",
+      "stack_actual": "80.00",
+      "winloss": "-",
+      "winloss_amount": 0,
+      "win_amount": 0,
+      "status": "Running",
+      "ip": "49.230.114.208",
+      "platform": "Mobile Compact",
+      "live": "Live",
+      "tx_id": "37557264210460692"
+    }
+  ],
+  "page": 1,
+  "limit": 8,
+  "totalRows": 8,
+  "totalPage": 1
+}

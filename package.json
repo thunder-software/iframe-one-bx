@@ -1,0 +1,51 @@
+{
+  "name": "lottoexit-frontend",
+  "version": "7.14.6",
+  "private": true,
+  "engines": {
+    "node": "22.5.1"
+  },
+  "scripts": {
+    "dev": "cross-env NODE_OPTIONS=--openssl-legacy-provider nuxt",
+    "build": "cross-env NODE_OPTIONS=--openssl-legacy-provider nuxt build",
+    "start": "nuxt start",
+    "generate": "cross-env NODE_OPTIONS=--openssl-legacy-provider nuxt generate"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-countdown": "^1.1.5",
+    "@nuxtjs/auth-next": "5.0.0-1624817847.21691f1",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "axios-mock-adapter": "^1.21.2",
+    "bootstrap-vue": "^2.21.2",
+    "collect.js": "^4.29.3",
+    "core-js": "^3.15.1",
+    "fs": "^0.0.2",
+    "i": "^0.3.6",
+    "lodash": "^4.17.21",
+    "maz-ui": "^2.3.9",
+    "moment": "^2.29.4",
+    "npm": "^7.20.0",
+    "nuxt": "^2.15.7",
+    "nuxt-socket-io": "^3.0.12",
+    "pusher-js": "^8.0.1",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1",
+    "vue-clipboard2": "^0.3.1",
+    "vue-sweetalert2": "^5.0.5",
+    "vue2-perfect-scrollbar": "^1.5.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/laravel-echo": "^1.1.0",
+    "@nuxtjs/tailwindcss": "^4.2.1",
+    "autoprefixer": "^10.3.1",
+    "babel-plugin-component": "^1.1.1",
+    "cross-env": "^10.1.0",
+    "laravel-echo": "^1.15.0",
+    "postcss": "^8.3.5",
+    "sass": "^1.97.2",
+    "sass-loader": "^10.5.2",
+    "tailwindcss": "^2.2.4"
+  }
+}

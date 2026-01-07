@@ -1,0 +1,10 @@
+{
+    "message": "success",
+    "datas" : [{
+        "username" : "25gY724548468",
+        "credit":"20000.00",
+        "betamount" : "00.00",
+        "accountbalance" :"-13824.35",
+        "creditbalance" :"512.00"
+    }]
+}
