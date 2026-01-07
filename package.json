@@ -3,7 +3,7 @@
   "version": "7.14.6",
   "private": true,
   "engines": {
-    "node": "22.21.1"
+    "node": "20.x"
   },
   "scripts": {
     "dev": "cross-env NODE_OPTIONS=--openssl-legacy-provider nuxt",
