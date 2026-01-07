@@ -62,6 +62,9 @@
   "HeaderRules": {
     "description": "Auto imported from components/header/rules.vue"
   },
+  "NumberFormatNumber": {
+    "description": "Auto imported from components/number/FormatNumber.vue"
+  },
   "Center2Basketball": {
     "description": "Auto imported from components/center2/Basketball.vue"
   },
@@ -98,8 +101,32 @@
   "Center2Title": {
     "description": "Auto imported from components/center2/Title.vue"
   },
-  "NumberFormatNumber": {
-    "description": "Auto imported from components/number/FormatNumber.vue"
+  "CenterBasketball": {
+    "description": "Auto imported from components/center/Basketball.vue"
+  },
+  "CenterBullfight": {
+    "description": "Auto imported from components/center/Bullfight.vue"
+  },
+  "CenterCockfight": {
+    "description": "Auto imported from components/center/Cockfight.vue"
+  },
+  "CenterFootball": {
+    "description": "Auto imported from components/center/Football.vue"
+  },
+  "CenterMuaythai": {
+    "description": "Auto imported from components/center/Muaythai.vue"
+  },
+  "CenterRefreshButton": {
+    "description": "Auto imported from components/center/RefreshButton.vue"
+  },
+  "CenterSelectLeagueButton": {
+    "description": "Auto imported from components/center/SelectLeagueButton.vue"
+  },
+  "CenterSnooker": {
+    "description": "Auto imported from components/center/Snooker.vue"
+  },
+  "CenterTitle": {
+    "description": "Auto imported from components/center/Title.vue"
   },
   "SidebarLeftBanner": {
     "description": "Auto imported from components/sidebar-left/Banner.vue"
@@ -131,33 +158,6 @@
   "SidebarLeftSportMenuItem": {
     "description": "Auto imported from components/sidebar-left/SportMenuItem.vue"
   },
-  "CenterBasketball": {
-    "description": "Auto imported from components/center/Basketball.vue"
-  },
-  "CenterBullfight": {
-    "description": "Auto imported from components/center/Bullfight.vue"
-  },
-  "CenterCockfight": {
-    "description": "Auto imported from components/center/Cockfight.vue"
-  },
-  "CenterFootball": {
-    "description": "Auto imported from components/center/Football.vue"
-  },
-  "CenterMuaythai": {
-    "description": "Auto imported from components/center/Muaythai.vue"
-  },
-  "CenterRefreshButton": {
-    "description": "Auto imported from components/center/RefreshButton.vue"
-  },
-  "CenterSelectLeagueButton": {
-    "description": "Auto imported from components/center/SelectLeagueButton.vue"
-  },
-  "CenterSnooker": {
-    "description": "Auto imported from components/center/Snooker.vue"
-  },
-  "CenterTitle": {
-    "description": "Auto imported from components/center/Title.vue"
-  },
   "SidebarRightBanner": {
     "description": "Auto imported from components/sidebar-right/Banner.vue"
   },
@@ -184,6 +184,27 @@
   },
   "UserTabs": {
     "description": "Auto imported from components/user/Tabs.vue"
+  },
+  "MenubarAnnounceTable": {
+    "description": "Auto imported from components/menubar/announce/Table.vue"
+  },
+  "MenubarResultsFilterResult": {
+    "description": "Auto imported from components/menubar/results/FilterResult.vue"
+  },
+  "MenubarResultsFilterSelectLeague": {
+    "description": "Auto imported from components/menubar/results/FilterSelectLeague.vue"
+  },
+  "MenubarResultsTable": {
+    "description": "Auto imported from components/menubar/results/Table.vue"
+  },
+  "MenubarResults2FilterResult": {
+    "description": "Auto imported from components/menubar/results2/FilterResult.vue"
+  },
+  "MenubarResults2FilterSelectLeague": {
+    "description": "Auto imported from components/menubar/results2/FilterSelectLeague.vue"
+  },
+  "MenubarResults2Table": {
+    "description": "Auto imported from components/menubar/results2/Table.vue"
   },
   "Center2ColumnHandicap": {
     "description": "Auto imported from components/center2/column/Handicap.vue"
@@ -248,27 +269,6 @@
   "Center2MatchTableNonliveMpy": {
     "description": "Auto imported from components/center2/match-table/NonliveMpy.vue"
   },
-  "MenubarAnnounceTable": {
-    "description": "Auto imported from components/menubar/announce/Table.vue"
-  },
-  "MenubarResultsFilterResult": {
-    "description": "Auto imported from components/menubar/results/FilterResult.vue"
-  },
-  "MenubarResultsFilterSelectLeague": {
-    "description": "Auto imported from components/menubar/results/FilterSelectLeague.vue"
-  },
-  "MenubarResultsTable": {
-    "description": "Auto imported from components/menubar/results/Table.vue"
-  },
-  "MenubarResults2FilterResult": {
-    "description": "Auto imported from components/menubar/results2/FilterResult.vue"
-  },
-  "MenubarResults2FilterSelectLeague": {
-    "description": "Auto imported from components/menubar/results2/FilterSelectLeague.vue"
-  },
-  "MenubarResults2Table": {
-    "description": "Auto imported from components/menubar/results2/Table.vue"
-  },
   "CenterMatchTableDoubleLine": {
     "description": "Auto imported from components/center/match-table/DoubleLine.vue"
   },
@@ -290,12 +290,6 @@
   "CenterMatchTableToday": {
     "description": "Auto imported from components/center/match-table/Today.vue"
   },
-  "Center2MatchTableDoubleTables": {
-    "description": "Auto imported from components/center2/match-table/double/Tables.vue"
-  },
-  "Center2MatchTableHalftimeTables": {
-    "description": "Auto imported from components/center2/match-table/halftime/Tables.vue"
-  },
   "Center2MatchTableFulltimeTables": {
     "description": "Auto imported from components/center2/match-table/fulltime/Tables.vue"
   },
@@ -304,6 +298,12 @@
   },
   "Center2MatchTableFulltimeTablesMuay2": {
     "description": "Auto imported from components/center2/match-table/fulltime/TablesMuay2.vue"
+  },
+  "Center2MatchTableDoubleTables": {
+    "description": "Auto imported from components/center2/match-table/double/Tables.vue"
+  },
+  "Center2MatchTableHalftimeTables": {
+    "description": "Auto imported from components/center2/match-table/halftime/Tables.vue"
   },
   "Center2MatchTableNewlineTables": {
     "description": "Auto imported from components/center2/match-table/newline/Tables.vue"
@@ -389,12 +389,6 @@
   "Center2MatchTable2Singleline": {
     "description": "Auto imported from components/center2/match-table2/singleline/index.vue"
   },
-  "CenterMatchTableDoubleTdfootball": {
-    "description": "Auto imported from components/center/match-table/double/Tdfootball.vue"
-  },
-  "CenterMatchTableFulltimeTdfootball": {
-    "description": "Auto imported from components/center/match-table/fulltime/Tdfootball.vue"
-  },
   "CenterMatchTableColumnName": {
     "description": "Auto imported from components/center/match-table/column/Name.vue"
   },
@@ -407,10 +401,16 @@
   "CenterMatchTableColumnTime": {
     "description": "Auto imported from components/center/match-table/column/Time.vue"
   },
-  "CenterMatchTableSingleTdfootball": {
-    "description": "Auto imported from components/center/match-table/single/Tdfootball.vue"
+  "CenterMatchTableDoubleTdfootball": {
+    "description": "Auto imported from components/center/match-table/double/Tdfootball.vue"
+  },
+  "CenterMatchTableFulltimeTdfootball": {
+    "description": "Auto imported from components/center/match-table/fulltime/Tdfootball.vue"
   },
   "CenterMatchTableHalftimeTdfootball": {
     "description": "Auto imported from components/center/match-table/halftime/Tdfootball.vue"
+  },
+  "CenterMatchTableSingleTdfootball": {
+    "description": "Auto imported from components/center/match-table/single/Tdfootball.vue"
   }
 }
